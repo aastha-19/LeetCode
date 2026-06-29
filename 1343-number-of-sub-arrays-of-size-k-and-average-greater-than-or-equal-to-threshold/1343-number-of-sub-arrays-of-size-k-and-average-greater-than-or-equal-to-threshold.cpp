@@ -11,13 +11,14 @@ public:
         if(sum>=threshold*k){
             count++;
         }
-        for( int j=i; j<arr.size(); j++){
+        for(int j=i; j<arr.size(); j++){
             sum=sum-arr[j-k];
             sum=sum+arr[j];
-            if(sum>=threshold*k){
+        
+        if(sum>=threshold*k){
             count++;
-        }
-        }
+        }}
+
         return count;
     }
 };

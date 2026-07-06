@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aastha-19/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/aastha-19/LeetCode/tree/master/1544-make-the-string-great) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aastha-19/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aastha-19/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/aastha-19/LeetCode/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->

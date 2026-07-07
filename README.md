@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aastha-19/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aastha-19/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0867-transpose-matrix](https://github.com/aastha-19/LeetCode/tree/master/0867-transpose-matrix) |
 | [1046-last-stone-weight](https://github.com/aastha-19/LeetCode/tree/master/1046-last-stone-weight) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aastha-19/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/aastha-19/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aastha-19/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/aastha-19/LeetCode/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/aastha-19/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/aastha-19/LeetCode/tree/master/3174-clear-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/aastha-19/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

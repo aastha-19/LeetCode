@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/aastha-19/LeetCode/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/aastha-19/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/aastha-19/LeetCode/tree/master/3174-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/aastha-19/LeetCode/tree/master/1544-make-the-string-great) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aastha-19/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/aastha-19/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/aastha-19/LeetCode/tree/master/3174-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -62,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1544-make-the-string-great](https://github.com/aastha-19/LeetCode/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/aastha-19/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/aastha-19/LeetCode/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->

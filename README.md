@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aastha-19/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aastha-19/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aastha-19/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/aastha-19/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0867-transpose-matrix](https://github.com/aastha-19/LeetCode/tree/master/0867-transpose-matrix) |
 | [1046-last-stone-weight](https://github.com/aastha-19/LeetCode/tree/master/1046-last-stone-weight) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aastha-19/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aastha-19/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/aastha-19/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

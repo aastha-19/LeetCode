@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aastha-19/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aastha-19/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aastha-19/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0867-transpose-matrix](https://github.com/aastha-19/LeetCode/tree/master/0867-transpose-matrix) |
 | [1046-last-stone-weight](https://github.com/aastha-19/LeetCode/tree/master/1046-last-stone-weight) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aastha-19/LeetCode/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aastha-19/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
